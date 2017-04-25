@@ -1,6 +1,6 @@
 {
     "author": "kai zhu <kaizhu256@gmail.com>",
-    "description": "test coverage for  [hippie (v0.5.1)](https://github.com/vesln/hippie)",
+    "description": "#### basic test coverage for  [hippie (v0.5.1)](https://github.com/vesln/hippie)  [![npm package](https://img.shields.io/npm/v/npmtest-hippie.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-hippie) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-hippie.svg)](https://travis-ci.org/npmtest/node-npmtest-hippie)",
     "devDependencies": {
         "electron-lite": "kaizhu256/node-electron-lite#alpha",
         "hippie": "*",

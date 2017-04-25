@@ -1,6 +1,7 @@
-# npmtest-hippie [![npm package](https://img.shields.io/npm/v/npmtest-hippie.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-hippie) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-hippie.svg)](https://travis-ci.org/npmtest/node-npmtest-hippie)
+# npmtest-hippie
 
-test coverage for  [hippie (v0.5.1)](https://github.com/vesln/hippie)
+#### basic test coverage for  [hippie (v0.5.1)](https://github.com/vesln/hippie)  [![npm package](https://img.shields.io/npm/v/npmtest-hippie.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-hippie) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-hippie.svg)](https://travis-ci.org/npmtest/node-npmtest-hippie)
+
 #### Simple end-to-end API testing
 
 [![NPM](https://nodei.co/npm/hippie.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/hippie)
@@ -9,7 +10,7 @@ test coverage for  [hippie (v0.5.1)](https://github.com/vesln/hippie)
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-hippie/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-hippie/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-hippie/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-hippie/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-hippie/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-hippie/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-hippie/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-hippie/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-hippie/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-hippie/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-hippie/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-hippie/build/coverage.html/index.html)
 
@@ -91,7 +92,8 @@ test coverage for  [hippie (v0.5.1)](https://github.com/vesln/hippie)
         "pretest": "jshint .",
         "test": "hydro"
     },
-    "version": "0.5.1"
+    "version": "0.5.1",
+    "bin": {}
 }
 ```
 
